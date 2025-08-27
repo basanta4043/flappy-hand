@@ -2,8 +2,6 @@
 
 Control a minimalist Flappy Bird clone using your hand tracked via webcam. Hand motion (moving your palm upward) triggers the bird to flap. The game includes a start menu and a game‑over screen with a **Try Again** button.
 
-[https://github.com/yourname/flappy-hand-flappy](https://github.com/yourname/flappy-hand-flappy) (replace with your repo URL if you publish)
-
 ---
 
 ## ✨ Features
